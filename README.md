@@ -1,1 +1,1 @@
-# dockerfile-hello-world-
+## Q2第1回スクール 「Dockerfileを作成する(実践編)」 のリポジトリです。
